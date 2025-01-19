@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
@@ -254,10 +254,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _discussions
   - scope:
       path: ""
-      type: talks
+      type: discussion
     values:
       layout: talk
       author_profile: true
