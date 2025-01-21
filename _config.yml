@@ -24,10 +24,10 @@ author:
   avatar           : "images/my_photo.png"
   name             : "Ritika Verma"
   pronouns         : # example: "she/her/hers"  
-  bio              : "I am a fourth year PhD student in Economics at NYU. I work in Microeconomic Theory, Corporate Finance and Innovation Markets."
+  bio              : ""
   location         : "New York, NY, USA"
   employer         : "New York University"
-  uri              : # URL
+  uri              : "https://ritikaverma2179.github.io"
   email            : "rv2179@nyu.edu" 
 
   # Academic websites
