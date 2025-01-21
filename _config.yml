@@ -12,7 +12,7 @@ title                    : "Ritika Verma"
 title_separator          : "-"
 name                     : &name "Ritika Verma"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ritikaverma2179.github.io"
+url                      : "https://ritikaverma2179.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ritikaverma2179/ritikaverma2179.github.io"
 
