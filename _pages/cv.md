@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Phil in Economics, New York University
+* M.A. in Economics, Delhi School of Economics, University of Delhi, India, 2020
+* B.A. (with Honours) in Economics, Sri Ram College of Commerce, University of Delhi, India, 2018
 
-Work experience
+Research Fields
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Microeconomic Theory, Entrepreneurial Finance, Corporate Finance, Innovation Markets
+  
+Teaching experience
+======
+* Spring 2025: Teaching Assistant under Prof. [Arjada Bardhi](https://www.arjadabardhi.com/)
+  * Political Economy
+  * Theory track undergraduate course at NYU
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Teaching Assistant under Prof. [Erik Masen](https://www.erikrmadsen.com/)
+  * Game Theory I: MSQE
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2023, Spring 2024, Fall 2024 : Teaching Assistant under Prof. [Viplav Saini](https://sites.google.com/view/viplav-saini/)
+  * Intermediate Microeconomics: Undergraduate Course
+    
+* Summer 2024: Main Instructor
+  * Intermediate Microeconomics: Undergraduate Course
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2022: Teaching Assistant under Prof. [Ariel Rubinstein](https://arielrubinstein.tau.ac.il/) and Prof. [Alfred Galichon](https://alfredgalichon.com/)
+   * Microeconomics I : PhD Course
+
   
-Talks
+Research
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* On the Knife Edge: VC Contracts with Informed Investors
+
+
+Conferences
+======
+* 19th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, 2024
+* 6th Annual Economics Conference, Ahemdabad University, 2025
   
-Teaching
+Academic Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* NYU Micro Theory Student Lunch organizer (academic year
+2023-2024, 2024-2025);
