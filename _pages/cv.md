@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Phil in Economics, New York University
+* M.Phil in Economics, New York University, USA, 2024
 * M.A. in Economics, Delhi School of Economics, University of Delhi, India, 2020
 * B.A. (with Honours) in Economics, Sri Ram College of Commerce, University of Delhi, India, 2018
 
