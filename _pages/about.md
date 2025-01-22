@@ -6,5 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my academic website! I am a fourth-year PhD student in Economics at New York University. My research focuses on microeconomic theory, with applications in entrepreneurial finance, innovation markets, and corporate finance. Here, you can find more information about my research, teaching, and academic activities. Thank you for visiting!
+Welcome to my academic website! 
+I am a fourth-year PhD student in Economics at New York University. My research focuses on microeconomic theory, with applications in entrepreneurial finance, innovation markets, and corporate finance. Here, you can find more information about my research, teaching, and academic activities. 
+Thank you for visiting!
 
