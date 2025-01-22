@@ -272,3 +272,14 @@
     }
   }
 }
+
+.social-icons a, 
+.author__urls a {
+  color: #57068c; // NYU purple for social media icons
+}
+
+.social-icons a:hover, 
+.author__urls a:hover {
+  color: darken(#57068c, 10%); // Darker purple on hover
+}
+
