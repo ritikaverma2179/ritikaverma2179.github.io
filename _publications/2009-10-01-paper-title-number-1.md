@@ -2,10 +2,8 @@
 title: "On the Knife Edge: VC Contracts with Informed Investors"
 collection: research
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /research/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2009-10-01
-venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://nyu.box.com/s/lznuzdzi2p7izyylsy4a9xiu4qbx5d4s'
 ---
