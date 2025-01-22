@@ -1,14 +1,5 @@
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/my_photo.png" alt="My Photo" style="width: 150px; height: auto; border-radius: 8px;">
+  <img src="images/my_photo.png" alt="My Photo" style="width: 250px; height: auto; border-radius: 8px;">
   <div>
     <p>Welcome to my academic website!</p>
     <p>
