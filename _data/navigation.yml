@@ -8,8 +8,14 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Discussion"
+    url: /discussion/
+    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
+
+  - title: "Contact"
+    url: /contact/
