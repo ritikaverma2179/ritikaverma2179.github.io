@@ -71,10 +71,10 @@ Academic Service
 Other Experience
 ======
 * Center for Advanced Financial Research and Learning, Reserve Bank of India
-  *  Research Associate (2020-21)
+  *  Research Associate, 2020-2021
 
 * Barclays Global Service Centre Private Limited
-  * Summer Intern, Fraud Analytics (2019)
+  * Summer Intern, Fraud Analytics, 2019
 
 * Indian Realty Exchange, QUIKR India Pvt Ltd
   * Summer Intern, 2016
