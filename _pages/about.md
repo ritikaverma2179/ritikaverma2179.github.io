@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/my_photo.png" alt="My Photo" style="width: 250px; height: auto; border-radius: 8px;">
+  <img src="images/my_photo.png" alt="My Photo" style="width: 250px; height: 300px; border-radius: 50%; object-fit: cover;">
   <div>
     <p>Welcome to my academic website!</p>
     <p>
