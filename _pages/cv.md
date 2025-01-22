@@ -39,7 +39,7 @@ Teaching experience
   
 
 * Fall 2024: Teaching Assistant for Prof. [Erik Masen](https://www.erikrmadsen.com/)
-  * Game Theory I: MSQE
+  * Game Theory I: MS in Quantitative Economics
 
 * Fall 2023, Spring 2024, Fall 2024 : Teaching Assistant for Prof. [Viplav Saini](https://sites.google.com/view/viplav-saini/)
   * Intermediate Microeconomics: Undergraduate Course
