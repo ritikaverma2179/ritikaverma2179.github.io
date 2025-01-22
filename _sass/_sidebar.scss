@@ -54,6 +54,7 @@
   img {
     width: 100%;
   }
+   
 }
 
 .sidebar__right {
@@ -71,6 +72,19 @@
     width: $right-sidebar-width;
   }
 }
+
+.sidebar a {
+  color: #57068c; // NYU purple for all sidebar links
+}
+
+.sidebar a:hover {
+  color: darken(#57068c, 10%); // Slightly darker purple on hover
+}
+
+.author__bio, .author__pronouns, .author__name {
+  color: #57068c; // NYU purple for text
+}
+
 
 /*
    Author profile and links
