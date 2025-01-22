@@ -20,5 +20,4 @@ redirect_from:
       Here, you can find more information about my research, teaching, and academic activities.  
       Thank you for visiting!
     </p>
-  </div>
-</div>
+
