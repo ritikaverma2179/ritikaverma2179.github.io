@@ -18,6 +18,18 @@ Education
 Research Fields
 ======
 * Microeconomic Theory, Entrepreneurial Finance, Corporate Finance, Innovation Markets
+
+Research
+======
+* On the Knife Edge: VC Contracts with Informed Investors
+    * Draft available on request
+
+
+Conferences
+======
+* 19th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, 2024
+* 6th Annual Economics Conference, Ahemdabad University, 2025
+
   
 Teaching experience
 ======
@@ -39,17 +51,27 @@ Teaching experience
    * Microeconomics I : PhD Course
 
   
-Research
+Scholarships and Grants
 ======
-* On the Knife Edge: VC Contracts with Informed Investors
+* CV. Starr Center for Applied Economics' Travel Grant, 2024
+* NYU GSAS Dean’s Student Travel Grant, 2024
+* Henry M. McCracken Scholarship, NYU, 2021-2026
+* Prof. Late Suresh D.Tendulkar Memorial Scholarship, Delhi School of Economics, 2019
+* Delhi University Post Graduate Scholarship, 2018
+* KPMG Merit cum Need Scholarship, SRCC, 2016
 
-
-Conferences
-======
-* 19th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, 2024
-* 6th Annual Economics Conference, Ahemdabad University, 2025
-  
 Academic Service
 ======
 * NYU Micro Theory Student Lunch organizer (academic year
-2023-2024, 2024-2025);
+2023-2024, 2024-2025)
+
+Other Experience
+======
+* Center for Advanced Financial Research and Learning, Reserve Bank of India
+  *  Research Associate (2020-21)
+
+* Barclays Global Service Centre Private Limited
+  * Summer Intern, Fraud Analytics (2019)
+
+* Indian Realty Exchange, QUIKR India Pvt Ltd
+  * Summer Intern, 2016
