@@ -9,8 +9,13 @@ author_profile: true
 {% include base_path %}
 
 **Ritika Verma**
-PhD Candidate 
-New York University | Economics Department
+<p>
+  PhD Candidate
+</p>
+<p>
+  New York University | Economics Department
+</p>
+
 
 <p>
   Email: rv2179@nyu.edu
