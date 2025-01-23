@@ -10,26 +10,16 @@ author_profile: true
 
 **Ritika Verma**
 <p>
-  PhD Candidate
+  rv2179@nyu.edu
 </p>
 <p>
   New York University | Economics Department
-</p>
-
-
-<p>
-  Email: _rv2179@nyu.edu_
-</p>
-
-<p>
-  Mail: New York University | Economics Department
   </p>
   <p>
      19 W 4th Street, 6th Floor
   </p>
  <p>
      New York, NY 10003
- </p>
 
 
 
