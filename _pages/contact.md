@@ -18,7 +18,7 @@ author_profile: true
 
 
 <p>
-  Email: *rv2179@nyu.edu*
+  Email: _rv2179@nyu.edu_
 </p>
 
 <p>
