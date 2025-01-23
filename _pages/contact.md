@@ -18,8 +18,14 @@ New York University | Economics Department
 
 <p>
   Mail: New York University | Economics Department
-  19 W 4th Street, 6th Floor
-  New York, NY 10003
-</p>
+  </p>
+  <p>
+     19 W 4th Street, 6th Floor
+  </p>
+ <p>
+     New York, NY 10003
+ </p>
+
+
 
 
