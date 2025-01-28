@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "Ritika Verma"
 permalink: /contact/
 author_profile: true
 
@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Ritika Verma**
+
 <p>
   rv2179@nyu.edu
 </p>
