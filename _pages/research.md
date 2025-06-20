@@ -3,7 +3,10 @@ title: "Research"
 collection: research
 category: manuscripts
 permalink: /research/
-
+author_profile: true
+redirect_from:
+  - /resume
+---
     * [Venture Capital Contracts with Informed Investors](https://nyu.box.com/s/lznuzdzi2p7izyylsy4a9xiu4qbx5d4s)
       * *Abstract: A cashless entrepreneur designs a contract backed by future cash flows to raise funds from
                     an informed investor. The entrepreneur can exert costly effort to improve payoff relevant out-
