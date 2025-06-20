@@ -21,12 +21,13 @@ Research Fields
 
 Research
 ======
-* On the Knife Edge: VC Contracts with Informed Investors
-    * Draft available on request
+* Venture Capital Contracts with Informed Investors
+  
 
 
 Conferences
 ======
+* Finance Theory Group Summer School, University of Washington, 2025
 * 19th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi, 2024
 * 6th Annual Economics Conference, Ahemdabad University, 2025
 
