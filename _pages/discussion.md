@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching Experience"
-permalink: /teaching/
+title: "Discussions"
+permalink: /discussion/
 author_profile: true
 redirect_from:
   - /resume
@@ -13,5 +13,6 @@ redirect_from:
 
 * Knowing the Unknown: Experimentation under Delayed Success
   * Shraman Banerjee, Soumik Kumar Saha
+  * [Slides}(https://nyu.box.com/s/km07xpe9cwta3yadvdyl8y6lbhaymll2)
     
   
