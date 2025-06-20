@@ -2,7 +2,7 @@
 title: "Venture Capital Contracts with Informed Investors"
 collection: research
 category: manuscripts
-permalink: /research/vc-contract-informed-investors
+permalink: /research/
 excerpt: '*Abstract: A cashless entrepreneur designs a contract backed by future cash flows to raise funds from
 an informed investor. The entrepreneur can exert costly effort to improve payoff relevant out-
 come where the marginal benefit depends on the quality of the project. The quality of the
@@ -17,5 +17,4 @@ the economy.*
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://nyu.box.com/s/lznuzdzi2p7izyylsy4a9xiu4qbx5d4s'
 ---
-
 
