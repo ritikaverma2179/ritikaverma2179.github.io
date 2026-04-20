@@ -14,7 +14,7 @@ name                     : &name "Ritika Verma"
 description              : &description "personal description"
 url                      : "https://ritikaverma2179.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ritikaverma2179/ritikaverma2179.github.io"
+repository               : "https://ritikaverma.com"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
