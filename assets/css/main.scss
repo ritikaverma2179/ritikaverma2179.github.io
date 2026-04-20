@@ -9,6 +9,17 @@
  *  - https://twitter.com/mmistakes
  *
 */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Playfair+Display:wght@600;700&display=swap');
+
+body {
+  font-family: 'EB Garamond', serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 0.01em;
+}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
