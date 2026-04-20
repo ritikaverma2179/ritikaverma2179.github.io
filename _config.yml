@@ -21,7 +21,7 @@ repository               : "ritikaverma2179/ritikaverma2179.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/nyu_logo.png"
+  avatar           : "/images/nyu_logo_square_full.png"
   name             : "Ritika Verma"
   pronouns         : # example: "she/her/hers"  
   bio              : ""
