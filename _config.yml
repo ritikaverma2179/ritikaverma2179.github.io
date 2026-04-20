@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ritika Verma"
 description              : &description "personal description"
-url                      : "https://ritikaverma2179.github.io"
+url                      : "https://ritikaverma.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://ritikaverma.com"
 
